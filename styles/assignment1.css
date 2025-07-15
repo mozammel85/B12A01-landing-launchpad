@@ -48,7 +48,7 @@ margin-left: 633px;
 .button2:hover{
     color: wheat;
 }
-.button3{
+.button3{ 
 background-color: #4E47FF;
 color: white;
 font-weight: bold;
@@ -112,7 +112,7 @@ width: 517px;
     height: 328px; 
     border-radius: 48px;
 }
-/* .users-section-bg{ */
+.users-section-bg{ 
     border-radius: 24px;
     /* background:  */
     align-items: center;
@@ -251,7 +251,7 @@ color: white;
     font-weight: 500;
 }
 /* Footer section start */
-/* .Footer-section{ */
+.Footer-section{ 
     width: 1440px;
     height: 428px;
     margin: 104px 455px 103px 454px;
