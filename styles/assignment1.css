@@ -19,8 +19,8 @@ padding: 12px 36px;
 border-radius: 10px;
 border: none;
 }
-/* .btn-primary:hover{
-    color: wheat; */
+.btn-primary:hover{
+    color: wheat;
 }
 .header{
     background-image: url('../Assets/Hero-bg.png') ;
@@ -202,7 +202,7 @@ font-weight: 600;
     font-weight: 400;
 }
 /* Input Section */
-.Input-section{
+/* .Input-section{ */
     display: flex;
     width: 1140px;
     height: 632px;
@@ -251,7 +251,7 @@ color: white;
     font-weight: 500;
 }
 /* Footer section start */
-.Footer-section{
+/* .Footer-section{ */
     width: 1440px;
     height: 428px;
     margin: 104px 455px 103px 454px;
