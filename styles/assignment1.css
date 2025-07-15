@@ -112,7 +112,7 @@ width: 517px;
     height: 328px; 
     border-radius: 48px;
 }
-.users-section-bg{
+/* .users-section-bg{ */
     border-radius: 24px;
     /* background:  */
     align-items: center;
@@ -202,7 +202,7 @@ font-weight: 600;
     font-weight: 400;
 }
 /* Input Section */
-/* .Input-section{ */
+.Input-section{ 
     display: flex;
     width: 1140px;
     height: 632px;
